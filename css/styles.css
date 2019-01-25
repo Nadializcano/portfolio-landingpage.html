@@ -1,5 +1,5 @@
 body {
-  background-color: lightgray;
+  background-color: #202020;
 }
 
 h1 {
@@ -17,7 +17,6 @@ img {
   margin: 12px;
   border: 2px;
   padding: 4px;
-  background-color: gray;
 }
 
 .important {
