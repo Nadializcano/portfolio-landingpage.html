@@ -4,13 +4,17 @@ body {
   margin: 50px;
 }
 
+.jumbotron {
+  height: 1px;
+}
+
 h1 {
-  text-align: center;
- margin-top: 60px;
+  text-align: left;
+  font-size: 10pt;
 }
 
 img {
-  float: left;
+  float: right;
   margin-left: 30px;
 
 }
@@ -28,5 +32,4 @@ img {
 
 .well{
 color: gray;
-align-self: center;
 }
