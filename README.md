@@ -12,7 +12,7 @@ _This Webpage is made to showcase my coding projects thought my studies in Epico
 
 To use this repository.
 
-$ git clone http
+$ git clone https://github.com/Nadializcano/portfolio-landingpage.html
 
 ## Support and contact details
 
