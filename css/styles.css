@@ -19,10 +19,16 @@ img {
   margin-left: 30px;
 }
 
+.col-md-5 {
+  margin-top: 67px;
+  font-size: 16pt;
+}
 
 .col-md-2 {
   padding-left: 30px;
   margin-left: 60px;
+  margin-top: 50px;
+  font-size: 14pt;
 }
 
 .well {
